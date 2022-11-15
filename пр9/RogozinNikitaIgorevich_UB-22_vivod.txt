@@ -1,0 +1,8 @@
+max summ = 15
+6 9 5 
+min summ = 5
+1 4 7 
+new matrix
+1 
+1 1 
+1 1 1 
